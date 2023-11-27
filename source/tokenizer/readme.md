@@ -38,6 +38,9 @@ def tokenize_text(text):
     return line  
 ```
   **Пример результата токенизации:**
-  <br>
-  <br>
-![Результат токенизации](https://github.com/kivirciks/nlp/blob/main/assets/example_tokenizer.PNG)
+<li> Первый столбик - исходное слово
+<li> Второй столбик - стемминг 
+<li> Третий столбик - лемматизация
+    <br>
+  
+  ![Результат токенизации](https://github.com/kivirciks/nlp/blob/main/assets/example_tokenizer.PNG)
