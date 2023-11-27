@@ -37,3 +37,7 @@ def tokenize_text(text):
             print('failed to tokenize: ' + s)
     return line  
 ```
+  **Пример результата токенизации:**
+  <br>
+  <br>
+![Результат токенизации](https://github.com/kivirciks/nlp/blob/main/assets/example_tokenizer.PNG)
