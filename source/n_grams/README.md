@@ -114,33 +114,33 @@ trigram_scores = finder_thr.score_ngrams(trigram_measures.pmi)
 
 | Триграмма | MI | Column 3 |
 |----------|----------|----------|
-| abend einem offiziellen    | 5.4297629888288625   | Cell 3   |
-| bainum outspent mufi    | 5.4297629888288625   | Cell 6   |
-| circusif roone arledge    | 5.4297629888288625   | Cell 9   |
-| claptons laylarecently guitarworld    | 5.4297629888288625   | Cell 9   |
-| desa rueng bakjok    | 5.4297629888288625   | Cell 9   |
-| dropper downloader bagleaq    | 5.4297629888288625   | Cell 9   |
-| easybus easypizza easycar    | 5.4297629888288625   | Cell 9   |
-| electionbefore shugofa beheshti    | 5.4297629888288625   | Cell 9   |
-| fadhil muhsen salom    | 5.4297629888288625   | Cell 9   |
-| gimm mur schwg    | 5.4297629888288625   | Cell 9   |
-| hanno rilasciato congiuntamente    | 5.4297629888288625   | Cell 9   |
-| jasbir kang yuba    | 5.4297629888288625   | Cell 9   |
-| lifesized jabba hutt    | 5.4297629888288625   | Cell 9   |
-| madame edmey cimeus    | 5.4297629888288625   | Cell 9   |
-| namesas bassist popfunk    | 5.4297629888288625   | Cell 9   |
-| newburg bahar uttam    | 5.4297629888288625   | Cell 9   |
-| olympicsby miron varouhakis    | 5.4297629888288625   | Cell 9   |
-| parmi lesquelles figurent    | 5.4297629888288625   | Cell 9   |
-| quebeckers guylaine dumont    | 5.4297629888288625   | Cell 9   |
-| raad altamimi newlylaunched    | 5.4297629888288625   | Cell 9   |
-| staphylococcus aureus mrsa    | 5.4297629888288625   | Cell 9   |
-| technogadgets holidaystalk overachiever    | 5.4297629888288625   | Cell 9   |
-| undoing flintoffbrian laras    | 5.4297629888288625   | Cell 9   |
-| utils bsd licenseand    | 5.4297629888288625   | Cell 9   |
-| waisted emeraldeyed brunette    | 5.4297629888288625   | Cell 9   |
-| xwiki aspwiki snipsnap    | 5.4297629888288625   | Cell 9   |
-| yearjune kamila vodichkova    | 5.4297629888288625   | Cell 9   |
-| zhah stoyah kohvich    | 5.4297629888288625   | Cell 9   |
-| zihdroo nuhs ihlgows    | 5.4297629888288625   | Cell 9   |
-| zservices clientsofts servicebuilder    | 5.4297629888288625   | Cell 9   |
+| abend einem offiziellen    | 5.4297629888288625   | 
+| bainum outspent mufi    | 5.4297629888288625   | 
+| circusif roone arledge    | 5.4297629888288625   |
+| claptons laylarecently guitarworld    | 5.4297629888288625   |
+| desa rueng bakjok    | 5.4297629888288625   | 
+| dropper downloader bagleaq    | 5.4297629888288625   | 
+| easybus easypizza easycar    | 5.4297629888288625   |
+| electionbefore shugofa beheshti    | 5.4297629888288625   | 
+| fadhil muhsen salom    | 5.4297629888288625   | 
+| gimm mur schwg    | 5.4297629888288625   | 
+| hanno rilasciato congiuntamente    | 5.4297629888288625   | 
+| jasbir kang yuba    | 5.4297629888288625   | 
+| lifesized jabba hutt    | 5.4297629888288625   | 
+| madame edmey cimeus    | 5.4297629888288625   | 
+| namesas bassist popfunk    | 5.4297629888288625   | 
+| newburg bahar uttam    | 5.4297629888288625   | 
+| olympicsby miron varouhakis    | 5.4297629888288625   | 
+| parmi lesquelles figurent    | 5.4297629888288625   | 
+| quebeckers guylaine dumont    | 5.4297629888288625   | 
+| raad altamimi newlylaunched    | 5.4297629888288625   |
+| staphylococcus aureus mrsa    | 5.4297629888288625   | 
+| technogadgets holidaystalk overachiever    | 5.4297629888288625   | 
+| undoing flintoffbrian laras    | 5.4297629888288625   |
+| utils bsd licenseand    | 5.4297629888288625   | 
+| waisted emeraldeyed brunette    | 5.4297629888288625   | 
+| xwiki aspwiki snipsnap    | 5.4297629888288625   | 
+| yearjune kamila vodichkova    | 5.4297629888288625   | 
+| zhah stoyah kohvich    | 5.4297629888288625   | 
+| zihdroo nuhs ihlgows    | 5.4297629888288625   | 
+| zservices clientsofts servicebuilder    | 5.4297629888288625   | 
